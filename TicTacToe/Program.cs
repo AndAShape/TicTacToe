@@ -2,7 +2,7 @@
 using Domain;
 using Domain.Game;
 
-namespace TikTacToe
+namespace TicTacToe
 {
     class Program
     {
