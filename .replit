@@ -1,2 +1,2 @@
 language = "bash"
-run = "bash ~/TicTacToe/main.sh"
+run = "bash main.sh"
